@@ -1,3 +1,5 @@
+<html>
+<head>
  <style> 
         .GFG { 
             background-color: white; 
@@ -12,6 +14,9 @@
             text-decoration:none; 
         } 
     </style> 
+</head>
+</html>
+<body>
     <div class="col-md-12" style="text-align:center; background-color:#16336d;">
                     <img src="header.png"  >
                 
@@ -177,4 +182,4 @@
 </tr>
 </tbody>
 </table>
-</center>
+</center></body>
